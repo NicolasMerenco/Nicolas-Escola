@@ -1,4 +1,4 @@
-# Atividade 3
+# Atividade 3 
 
 print("\n\n=== Desafio 3 ===")
 soma = 0
